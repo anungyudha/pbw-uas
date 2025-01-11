@@ -82,7 +82,7 @@ include "koneksi.php";
         <div class="d-sm-flex flex-sm-row-reverse align-items-center">
           <div>
             <h1 class="fw-bold display-4">
-              Jam Manusia Selalu Terburu-buru, Jam Tuhan Selalu Tepat Waktu.
+              Jam Manusia Selalu Terburu-buru, Jam Tuhan Selalu Tepat Waktu
             </h1>
             <h4 class="lead display-6">
               ~Pangeran Ukraina
